@@ -2,7 +2,7 @@
 
 This is the github repositry for the paper **Enhancing Cross Domain Protein and Peptide Interaction with Re trained Deep Learning Models**
 
-### Authors: Xin Cao†, Jingquan Li†, Fanpeng Meng, Bing Yang*, Yanyan Zou*
+### Authors: Xin Cao, Jingquan Li, Fanpeng Meng, Bing Yang*, Yanyan Zou*
 
 ---
 
